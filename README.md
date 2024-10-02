@@ -1,1 +1,3 @@
-# ruby-edu
+# Ruby Learning
+
+My Ruby learning ground
